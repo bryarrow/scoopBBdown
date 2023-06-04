@@ -13,7 +13,7 @@
             "hash": "c979952c7c8f29ce4db1f540597af18e43c8a8512b644aae28e961a908c8a99b"
         }
     },
-    "extract_dir":"bbdown",
+    "extract_to":"bbdown",
     "bin": "BBDown.exe",
     "depends":"ffmpeg",
     "suggest": {
