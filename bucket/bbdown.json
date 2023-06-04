@@ -2,7 +2,9 @@
     "version": "1.5.7",
     "description": "a Bilibili video downloader. 一个b站视频下载器",
     "homepage": "https://github.com/nilaoda/BBDown",
-    "license": "MIT",
+    "license": {
+        "identifier": "MIT"
+    },
     "architecture": {
         "64bit": {
             "url": "https://github.com/nilaoda/BBDown/releases/download/1.5.7/BBDown_1.5.7_20230530_win-x64.zip",
